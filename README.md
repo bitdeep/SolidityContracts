@@ -4,5 +4,5 @@ This are a series of samples contracts, some are cloned and others I build mysel
 
 ## Contact me:
 
-- twitter.com/bitdeep_oficial
-- t.me/bitdeep
+- [twitter.com/bitdeep_oficial](twitter.com/bitdeep_oficial)
+- [t.me/bitdeep](t.me/bitdeep)
